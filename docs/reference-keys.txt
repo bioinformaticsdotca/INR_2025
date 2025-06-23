@@ -3,9 +3,6 @@ workshop-info
 schedule
 pre-work
 meet-your-faculty
-data-and-compute-setup
-course-data-downloads
-compute-setup
 part-modules
 module-1
 lecture
