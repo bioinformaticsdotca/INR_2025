@@ -9,4 +9,5 @@ day-1
 lecture
 lab-downloads
 day-2
+lecture-1
 lab-downloads-1

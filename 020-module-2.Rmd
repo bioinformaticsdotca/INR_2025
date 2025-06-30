@@ -1,5 +1,8 @@
 # Day 2
 
+## Lecture
+<iframe width="640" height="480" src="https://www.youtube.com/embed/KqtDYp97HlU?si=0ndu_-CDIdTZtANH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Lab Downloads
 [Day 2 Rmd - Empty](https://drive.google.com/file/d/1-n4wRfQPD_hUYc0QyYlJdvNurmbuSVHK/view?usp=sharing) | [Day 2 Rmd - Complete](https://drive.google.com/file/d/1bA3Alzt5WV1waCt1MmXFZ3RbOZZYRiVo/view?usp=sharing)  
 [diamonds.csv](https://drive.google.com/file/d/1iK0gcxz3R1KptcHSMNbZB0YurTquQoXl/view?usp=sharing)  
