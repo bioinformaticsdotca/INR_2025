@@ -11,6 +11,6 @@
 
 
 ## Lab Downloads
-[Day 1 Rmd](https://drive.google.com/file/d/1yfOvH9V7Bfv10zSSZn7YVtd-onhiR1zl/view?usp=sharing)  
+[Day 1 Rmd - Empty ](https://drive.google.com/file/d/1yfOvH9V7Bfv10zSSZn7YVtd-onhiR1zl/view?usp=sharing)  | [Day 1 Rmd - Complete](https://drive.google.com/file/d/1HQqMnK00K3UyRp-6qZPtyXygra8d6iIO/view?usp=sharing)  
 [abalone.csv](https://drive.google.com/file/d/1taCATRfEQxTA0sUqw1dBgX9812DUSMZq/view?usp=drive_link)  
 [water_potability.csv](https://drive.google.com/file/d/1ZOTY43EyPoNBltGedDfOdsKzq9HSA77e/view?usp=sharing)  

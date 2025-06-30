@@ -1,6 +1,6 @@
 # Day 2
 
 ## Lab Downloads
-[Day 2 Rmd](https://drive.google.com/file/d/1-n4wRfQPD_hUYc0QyYlJdvNurmbuSVHK/view?usp=sharing)  
+[Day 2 Rmd - Empty](https://drive.google.com/file/d/1-n4wRfQPD_hUYc0QyYlJdvNurmbuSVHK/view?usp=sharing) | [Day 2 Rmd - Complete](https://drive.google.com/file/d/1bA3Alzt5WV1waCt1MmXFZ3RbOZZYRiVo/view?usp=sharing)  
 [diamonds.csv](https://drive.google.com/file/d/1iK0gcxz3R1KptcHSMNbZB0YurTquQoXl/view?usp=sharing)  
 [healthcare-dataset-stroke-data.csv](https://drive.google.com/file/d/1CREW9KyTbeG4aufgTYIDdyMCII-nuEHs/view?usp=sharing)  
